@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Hello the scary world!</title>		
+	</head>
+	<body style="background-color:lightblue;">
+	
+		<p style="color:yellow;Font-size:large">Today is the last day of the weekend.</p>
+		<p style="color:red;Font-size:XX-small">The last day for the lazy day.</p>
+		<p style="color:orange"> I know I need to write javascript when I open the README in github. It's really a surprise to be called as tina, but I like my Chienese name more than my child English name.(XD)</p>
+		<p style="color:green">It is cool to have homework from github README haha, thankyou ~~</p>
+	<script language="JavaScript">
+		<!--
+document.write("It my first time writing js, and I have some idea about my studying.");
+document.write("maybe you're not need to find something to give me for my studying when you are so busy, when I searched CSS, HTML, and javascript on the goole, I find many many thing which is teaching people for free.");
+document.write("/n/n/n");
+document.write("maybe I just need the homework QQ ,though I almost give up today because some trouble or ordinary tests, many homeworks...... but when I have enough time, this thing is cool and happy for me");
+document.write("hope you can really understand my poor English HAHAHAHAHA");
+//-->
+	</script>
+	</body>
+</html>
